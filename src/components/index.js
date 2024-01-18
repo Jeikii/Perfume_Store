@@ -1,0 +1,6 @@
+export {default as HomePage} from './HomePage'
+export {default as Navbar} from './Navbar'
+export {default as Search} from './Search'
+export {default as FamousProduct} from './FamousProduct'
+export {default as CardProduct} from './CardProduct'
+export {default as ProductPage} from './ProductPage'
