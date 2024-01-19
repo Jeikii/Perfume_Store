@@ -24,7 +24,7 @@ const FamousProduct = () => {
           <span className='text-4xl font-light flex items-center justify-center h-full'>
             Sản phẩm nổi bật
           </span>
-          <div className='w-full m-auto pb-[400px]'>
+          <div className='w-full m-auto pb-[200px]'>
             <CardProduct allCards={product} />
           </div>
         </div>
